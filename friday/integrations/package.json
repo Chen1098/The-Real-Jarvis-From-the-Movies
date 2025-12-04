@@ -1,0 +1,18 @@
+{
+  "name": "friday-whatsapp-bridge",
+  "version": "1.0.0",
+  "description": "WhatsApp Web Bridge for Friday AI Assistant",
+  "main": "whatsapp_bridge.js",
+  "scripts": {
+    "start": "node whatsapp_bridge.js",
+    "postinstall": "echo Skipping Chromium download..."
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.23.0",
+    "express": "^4.18.2",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "puppeteer": {
+    "skipDownload": true
+  }
+}
