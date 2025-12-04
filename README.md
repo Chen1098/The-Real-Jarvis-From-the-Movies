@@ -28,7 +28,7 @@ A sophisticated AI assistant modeled after J.A.R.V.I.S. from Iron Man, featuring
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Chen1098/The-Real-Jarvis-From-the-Movies.git
+   git clone <your-repo-url>
    cd Friday
    ```
 
