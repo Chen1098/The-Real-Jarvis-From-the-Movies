@@ -1,0 +1,20 @@
+{
+  "audio": {
+    "sample_rate": 16000,
+    "channels": 1,
+    "silence_threshold": 0.03,
+    "silence_duration": 2.5,
+    "max_recording_duration": 30
+  },
+  "ai": {
+    "model": "gpt-4o",
+    "max_tokens": 150,
+    "temperature": 0.7,
+    "tts_voice": "nova"
+  },
+  "gui": {
+    "window_width": 800,
+    "window_height": 600,
+    "theme": "dark"
+  }
+}
