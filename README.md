@@ -2,6 +2,8 @@
 
 A sophisticated AI assistant modeled after J.A.R.V.I.S. from Iron Man, featuring voice control, WhatsApp integration, intelligent system control, meeting memory, and proactive assistance.
 
+A youtube video to help you deploy: https://www.youtube.com/watch?v=HHynzl-zhb4
+
 ##  Features
 
 ### Core Capabilities
